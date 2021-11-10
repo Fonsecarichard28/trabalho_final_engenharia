@@ -14,7 +14,7 @@ function sub(){
 
 }
 
-console.log(sub())
+console.log(sub() + sum())
 
 function mult(){
     //TODO: Implementar multiplicação
