@@ -1,15 +1,18 @@
 function sum(){
-    let num1 = 5;
-    let num2 = 10;
-    let soma = num1 + num2;
-    console.log(soma)
+      //TODO: Implementar soma
+
 }
 
-console.log(sum())
 
 function sub(){
-    //TODO: Implementar subtração
+    let num1 = 5;
+    let num2 = 10;
+    let sub = num1 - num2;
+    console.log(sub)
+
 }
+
+console.log(sub())
 
 function mult(){
     //TODO: Implementar multiplicação
